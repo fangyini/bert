@@ -1,0 +1,301 @@
+./state_dict/bert_auto_title_model_639.bin loaded!
+Ground truth: 青城站10kV青957线957开关瞬时故障_开关节点BC相相间短路
+Testing result: 青城站 青 958 线 永久故障 _ 馈线近区 BC相 接地短路
+
+Ground truth: 东平站914开关拒动东平站10kV母分914开关永久故障_开关节点AB相相间短路
+Testing result: 东平站 #1主变10kV侧9011开关 瞬时故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 峨眉站2254开关拒动峨眉站220kV雁峨线2254开关永久故障_开关节点C相故障
+Testing result: 峨眉站 2254 开关拒动 110kV五黄线1158开关 瞬时故障 _ 开关节点 BC相相间 短路
+
+Ground truth: 清源变3374开关拒动清源变35kV清斯南线3374断路器永久故障_开关节点BC相相间短路
+Testing result: 清源变 220kV xf31 瞬时故障 _ 开关死区 CA相相间 短路
+
+Ground truth: 雁荡站雁井线瞬时故障_线路近区BC相接地短路
+Testing result: 雁荡站 10kV雁953线953开关 永久故障 _ 开关节点 AB相相间 接地
+
+Ground truth: 五台站3502分闸误操作
+Testing result: 五台站 #2主变35kV侧3502开关 永久故障 _ 开关死区 BC相相间 短路
+
+Ground truth: 雁荡站10kV#3电容器973开关永久故障_开关死区AB相相间短路
+Testing result: 雁荡站 10kV母分912开关 瞬时故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 三清站220kV永三Ⅱ线2254开关瞬时故障_开关节点ABC三相短路
+Testing result: 三清站 220kV 贺兰 Ⅱ 线 2252 开关 瞬时故障 _ 开关节点 BC相相间 短路
+
+Ground truth: 清源变1183开关拒动清源变110kV清井线1183断路器永久故障_开关节点A相故障
+Testing result: 清源变 110kV清龙线1169断路器 瞬时故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 青城站110kV青漓线1151开关永久故障_开关节点ABC三相短路
+Testing result: 青城站 青栖线 永久故障 _ 线路 出口 ABC三相 短路
+
+Ground truth: 三清站35B1三清站永久故障_母线BC相接地短路
+Testing result: 三清站 3512 开关拒动 35kV母分3512开关 永久故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 清源变220kV城清Ⅰ线2267断路器永久故障_开关死区BC相相间短路
+Testing result: 清源变 110kV清虎线1165断路器 永久故障 _ 开关节点 BC相相间 短路
+
+Ground truth: 峨眉站xf11永久故障_变压器外部AB相接地
+Testing result: 峨眉站 #1主变220kV侧2201开关 瞬时故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 峨眉站35kV#1电容器3571开关永久故障_开关节点ABC三相短路
+Testing result: 峨眉站 35kV#3电容器 3573 开关 永久故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 桐柏厂1151开关拒动桐柏厂110kV桐峨线1151开关永久故障_开关节点A相故障
+Testing result: 桐柏厂 桐峨 线 瞬时故障 _ 线路近区 BC相 接地短路
+
+Ground truth: 三清站#2主变110kV侧1102开关永久故障_开关节点AB相相间短路
+Testing result: 三清站 #2主变35kV侧3502开关 瞬时故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 东平站961开关拒动东平站10kV东961线961开关永久故障_开关节点AB相相间短路
+Testing result: 东平站 10kV东959线959开关 永久故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 五台站35kV五3554线3554开关瞬时故障_开关节点AB相相间接地
+Testing result: 五台站 35kV五3554线3554开关 永久故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 石林站961开关拒动石林站10kV石961线961开关永久故障_开关节点BC相相间接地
+Testing result: 石林站 10kV母分912开关 永久故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 东平站958开关拒动东平站10kV东958线958开关永久故障_开关死区CA相相间短路
+Testing result: 东平站 #1主变10kV侧9011开关 瞬时故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 小城变5042开关拒动小城变2号主变朝城Ⅰ线5042开关永久故障_开关节点C相故障
+Testing result: 小城变 2 开关拒动 110kV雁七线1153开关 瞬时故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 小城变城永Ⅰ线5013开关瞬时故障_开关节点A相故障
+Testing result: 小城变 城永 Ⅰ 线 5013 开关 瞬时故障 _ 开关节点 C相 故障
+
+Ground truth: 峨眉站35kV峨3552线3552开关瞬时故障_开关节点CA相相间短路
+Testing result: 峨眉站 35kV#1站用变3510开关 瞬时故障 _ 开关节点 AB相相间 接地
+
+Ground truth: 雁荡站10kV#2站用变920开关永久故障_开关节点AB相相间接地
+Testing result: 雁荡站 955 开关拒动 10kV雁955线955开关 永久故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 武夷站1154开关拒动武夷站110kV武清线1154开关瞬时故障_开关重叠区BC相相间短路
+Testing result: 武夷站 110kV 武梅 Ⅱ 线 1156 开关 永久故障 _ 开关重叠区 CA相相间 接地
+
+Ground truth: 武夷站10kV#2电容器972开关永久故障_开关节点ABC三相短路
+Testing result: 武夷站 10kV#2电容器972开关 永久故障 _ 开关重叠区 CA相相间 接地
+
+Ground truth: 贺兰厂xf2瞬时故障_变压器匝间故障
+Testing result: 贺兰厂 2201 线 永久故障 _ 变压器外部 C相 故障
+
+Ground truth: 石林站T峨天Ⅰ线永久故障_线路近区AB相相间短路
+Testing result: 石林站 110kV 峨天 Ⅰ 线 1101 开关 永久故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 青城站10kV青958线958开关永久故障_开关节点BC相相间接地
+Testing result: 青城站 青 958 线 保护拒动 永久故障 _ 馈线近区 BC相 接地短路
+
+Ground truth: 东平站973开关拒动东平站10kV#3电容器973开关瞬时故障_开关节点BC相相间短路
+Testing result: 东平站 10kV东959线959开关 永久故障 _ 开关节点 BC相相间 短路
+
+Ground truth: 清源变3308分闸误操作
+Testing result: 清源变 10kV母分914开关 瞬时故障 _ 开关死区 AB相相间 短路
+
+Ground truth: 峨眉站110kV峨苍线1154开关瞬时故障_开关节点BC相相间短路
+Testing result: 峨眉站 110kV 峨天 Ⅱ 线 1152 开关 永久故障 _ 开关节点 BC相相间 接地
+
+Ground truth: 玉龙站10kV玉958线958开关永久故障_开关节点BC相相间短路
+Testing result: 玉龙站 957 开关拒动 10kV玉957线 开关 永久故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 玉龙站10kV#2站用变920开关瞬时故障_开关节点CA相相间短路
+Testing result: 玉龙站 # 1 站 用 变 永久故障 _ 馈线近区 BC相 接地短路
+
+Ground truth: 小城变城五Ⅱ线永久故障_线路近区B相接地
+Testing result: 五台站 220kV 城五 Ⅰ 线 2251 开关 永久故障 _ 开关节点 A相 故障
+
+Ground truth: 武夷站10kV武951线951开关永久故障_开关节点CA相相间接地
+Testing result: 武夷站 10kV枫961线 保护拒动 永久故障 _ 线路近区 B相 接地
+
+Ground truth: 清源变110kV清云Ⅱ线1162断路器永久故障_开关节点AB相相间接地
+Testing result: 清源变 110kV 清云 Ⅱ 线 1162 断路器 永久故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 峨眉站#1主变220kV侧2201开关永久故障_开关节点A相故障
+Testing result: 峨眉站 #1主变220kV侧2201开关 瞬时故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 五台站1157分闸误操作
+Testing result: 五台站 3553 开关拒动 35kV五3553线3553开关 永久故障 _ 开关重叠区 AB相相间 短路
+
+Ground truth: 五台站35kV五3551线3551开关永久故障_开关节点AB相相间接地
+Testing result: 五台站 35kV#1电容器 3571 开关 瞬时故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 青城站901开关拒动青城站#1主变10kV侧901开关永久故障_开关节点CA相相间短路
+Testing result: 青城站 1156 开关拒动 110kV青岳线1156开关 永久故障 _ 开关节点 A相 故障
+
+Ground truth: 武夷站1152开关拒动武夷站110kV武大线1152开关永久故障_开关死区ABC三相短路
+Testing result: 武夷站 11B2 永久故障 _ 母线 C相 接地
+
+Ground truth: 东平站923保护拒动东平站10kV母分923开关瞬时故障_开关节点BC相相间短路
+Testing result: 东平站 #1主变10kV侧9011开关 瞬时故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 峨眉站35kV峨3555线3555开关瞬时故障_开关节点ABC三相短路
+Testing result: 峨眉站 3555 开关拒动 35kV峨3555线 开关 永久故障 _ 开关节点 BC相相间 接地
+
+Ground truth: 三清站#1主变35kV侧3501开关永久故障_开关死区BC相相间短路
+Testing result: 三清站 #2主变35kV侧3502开关 瞬时故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 武夷站永武Ⅰ线永久故障_线路近区ABC三相短路
+Testing result: 峨眉站 1153 开关拒动 110kV峨东线1153开关 瞬时故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 三清站1155分闸误操作
+Testing result: 武夷站 xf11 瞬时故障 _ 变压器外部 BC相 接地
+
+Ground truth: 五台站五青Ⅰ线保护拒动五台站五青Ⅰ线瞬时故障_线路近区C相接地
+Testing result: 青城站 五青 Ⅰ 线 瞬时故障 _ 线路近区 B相 接地
+
+Ground truth: 青城站1154开关拒动青城站110kV青双线1154开关瞬时故障_开关节点AB相相间接地
+Testing result: 青城站 #2主变110kV侧1102开关 永久故障 _ 开关节点 BC相相间 接地
+
+Ground truth: 雁荡站雁956线瞬时故障_馈线出口ABC三相短路
+Testing result: 雁荡站 10kV雁956线956开关 瞬时故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 三清站35kV#4电容器3574开关永久故障_开关节点C相故障
+Testing result: 三清站 3573 开关拒动 35kV#3电容器 开关 永久故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 武夷站#2主变10kV侧902开关永久故障_开关节点AB相相间短路
+Testing result: 武夷站 902 开关拒动 #2主变10kV侧902开关 永久故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 青城站10kV青951线951开关瞬时故障_开关节点AB相相间接地
+Testing result: 青城站 10kV青951线951开关 永久故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 玉龙站10kV玉957线957开关瞬时故障_开关节点ABC三相短路
+Testing result: 玉龙站 10kV#2站用变920开关 瞬时故障 _ 开关节点 BC相相间 接地
+
+Ground truth: 武夷站xf11永久故障_变压器外部AB相接地
+Testing result: 武夷站 #1主变220kV侧2201开关 永久故障 _ 开关节点 B相 故障
+
+Ground truth: 石林站10kV石958线958开关永久故障_开关节点CA相相间短路
+Testing result: 石林站 10kV石958线958开关 永久故障 _ 开关节点 BC相相间 接地
+
+Ground truth: 峨眉站35kV峨3551线3551开关瞬时故障_开关重叠区BC相相间接地
+Testing result: 峨眉站 AB相相间 接地
+
+Ground truth: 三清站35kV#2站用变3520开关瞬时故障_开关节点ABC三相短路
+Testing result: 三清站 #2主变35kV侧3502开关 瞬时故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 武夷站2202开关拒动武夷站#2主变220kV侧2202开关永久故障_开关节点AB相相间短路
+Testing result: 武夷站 2202 开关拒动 #2主变220kV侧2202开关 永久故障 _ 开关节点 A相 故障
+
+Ground truth: 天门站#2主变10kV侧902开关瞬时故障_开关节点CA相相间短路
+Testing result: 天门站 11B2 永久故障 _ 母线 A相 接地
+
+Ground truth: 东平站954开关拒动东平站10kV东954线954开关瞬时故障_开关节点BC相相间短路
+Testing result: 东平站 954 开关拒动 10kV东954线954开关 永久故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 三清站2253开关拒动三清站220kV永三Ⅰ线2253开关瞬时故障_开关节点AB相相间接地
+Testing result: 三清站 2215 保护拒动 瞬时故障 _ 开关节点 AB相相间 接地
+
+Ground truth: 峨眉站峨3556线瞬时故障_馈线近区AB相相间短路
+Testing result: 峨眉站 峨 3553 线 永久故障 _ 馈线近区 BC相 接地短路
+
+Ground truth: 五台站110kV五枫线1155开关永久故障_开关节点CA相相间短路
+Testing result: 五台站 35kV五3552线3552开关 永久故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 青城站五青Ⅰ线永久故障_线路近区AB相接地短路
+Testing result: 青城站 五青 Ⅰ 线 瞬时故障 _ 线路近区 BC相 接地短路
+
+Ground truth: 桐柏厂#2主变110kV侧1102开关永久故障_开关节点CA相相间短路
+Testing result: 桐柏厂 #2主变10kV侧902开关 永久故障 _ 开关节点 BC相相间 短路
+
+Ground truth: 青城站2202开关拒动青城站#2主变220kV侧2202开关永久故障_开关重叠区CA相相间短路
+Testing result: 青城站 #2主变220kV侧2202开关 瞬时故障 _ 开关节点 A相 故障
+
+Ground truth: 五台站35B1五台站瞬时故障_母线ABC三相短路
+Testing result: 五台站 35kV五3552线3552开关 瞬时故障 _ 开关死区 ABC三相 短路
+
+Ground truth: 清源变1112保护拒动清源变110kV母联1112断路器瞬时故障_开关节点AB相相间短路
+Testing result: 清源变 110kV 清云 Ⅱ 线 1162 断路器 永久故障 _ 开关节点 CA相相间 接地
+
+Ground truth: 五台站2251开关拒动五台站220kV城五Ⅰ线2251开关永久故障_开关节点AB相相间短路
+Testing result: 五台站 220kV 城五 Ⅱ 线 2252 开关 永久故障 _ 开关重叠区 CA相相间 短路
+
+Ground truth: 青城站青双线瞬时故障_线路近区A相接地
+Testing result: 青城站 青月线 瞬时故障 _ 线路近区 C相 接地
+
+Ground truth: 青城站220kV五青Ⅰ线2251开关瞬时故障_开关节点ABC三相短路
+Testing result: 青城站 五青 Ⅰ 线 永久故障 _ 线路 出口 ABC三相 短路
+
+Ground truth: 东平站966分闸误操作
+Testing result: 东平站 10kV东964线964开关 永久故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 雁荡站#1主变220kV侧2201开关永久故障_开关重叠区CA相相间接地
+Testing result: 雁荡站 220kV母联2212开关 瞬时故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 小城变城鹏线2288开关瞬时故障_开关节点CA相相间接地
+Testing result: 小城变 城鹏线2288开关 瞬时故障 _ 开关节点 AB相相间 接地
+
+Ground truth: 三清站3520开关拒动三清站35kV#2站用变3520开关瞬时故障_开关节点CA相相间接地
+Testing result: 三清站 11B2 瞬时故障 _ 母线 AB相 接地短路
+
+Ground truth: 峨眉站峨天Ⅰ线永久故障_线路近区B相接地
+Testing result: 峨眉站 峨天 Ⅱ 线 保护拒动 永久故障 _ 线路近区 CA相 接地短路
+
+Ground truth: 小城变2602分闸误操作
+Testing result: 小城变 2288 分闸误操作
+
+Ground truth: 清源变清龙线瞬时故障_线路近区B相接地
+Testing result: 清源变 110kV雁北线1152开关 瞬时故障 _ 开关死区 A相 接地
+
+Ground truth: 贺兰厂2202开关拒动贺兰厂#2主变220kV侧2202开关瞬时故障_开关节点BC相相间接地
+Testing result: 峨眉站 1157 开关拒动 10kV#3电容器973开关 永久故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 峨眉站中峨Ⅱ线瞬时故障_线路近区AB相接地短路
+Testing result: 峨眉站 22B2 永久故障 _ 线路近区 B相 接地
+
+Ground truth: 东平站东955线保护拒动东平站东955线瞬时故障_馈线近区BC相相间短路
+Testing result: 东平站 10kV东955线955开关 瞬时故障 _ 开关重叠区 ABC三相 短路
+
+Ground truth: 雁荡站10kV雁952线952开关永久故障_开关节点AB相相间短路
+Testing result: 雁荡站 10kV#1电容器971开关 永久故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 青城站10kV#3电容器973开关永久故障_开关节点CA相相间短路
+Testing result: 青城站 10kV青958线958开关 瞬时故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 小城变朝城Ⅰ线永久故障_线路近区BC相相间短路
+Testing result: 小城变 朝城 Ⅰ 线 永久故障 _ 线路近区 ABC三相 短路
+
+Ground truth: 天门站天954线瞬时故障_馈线近区CA相相间短路
+Testing result: 天门站 10kV天954线954开关 永久故障 _ 开关节点 AB相相间 短路
+
+Ground truth: 雁荡站雁七线永久故障_线路出口ABC三相短路
+Testing result: 雁荡站 11B2 瞬时故障 _ 母线 CA相 接地短路
+
+Ground truth: 贺兰厂2252开关拒动贺兰厂220kV贺兰Ⅱ线2252开关瞬时故障_开关节点AB相相间短路
+Testing result: 峨眉站 22B1 瞬时故障 _ 母线 CA相相间 短路
+
+Ground truth: 峨眉站22B1峨眉站永久故障_母线AB相接地短路
+Testing result: 峨眉站 #1主变220kV侧2201开关 瞬时故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 小城变22B1小城变永久故障_母线ABC三相短路
+Testing result: 小城变 2 开关拒动 110kV峨东线1153开关 瞬时故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 武夷站#1主变110kV侧1101开关永久故障_开关节点AB相相间接地
+Testing result: 武夷站 1112 保护拒动 110kV母联1112开关 瞬时故障 _ 开关节点 CA相相间 短路
+
+Ground truth: 小城变1号站用变320开关永久故障_开关节点CA相相间接地
+Testing result: 小城变 2 号 主变 1 低抗 开关节点 ABC三相 短路
+
+Ground truth: 青城站#1主变110kV侧1101开关瞬时故障_开关节点BC相相间短路
+Testing result: 青城站 11B1 瞬时故障 _ 母线 CA相相间 短路
+
+Ground truth: 峨眉站35kV#2电容器3572开关瞬时故障_开关节点ABC三相短路
+Testing result: 峨眉站 35kV#1站用变3510开关 瞬时故障 _ 开关节点 AB相相间 接地
+
+Ground truth: 小城变城清Ⅱ线2287开关永久故障_开关节点AB相相间短路
+Testing result: 小城变 5061 保护拒动 3号主变5061开关 瞬时故障 _ 开关节点 ABC三相 短路
+
+Ground truth: 青城站xf21瞬时故障_变压器调压瓦斯故障
+Testing result: 青城站 11B2 永久故障 _ 母线 A相 接地
+
+Ground truth: 青城站#2主变110kV侧1102开关瞬时故障_开关节点AB相相间短路
+Testing result: 青城站 #2主变110kV侧1102开关 永久故障 _ 开关节点 BC相相间 短路
+
+Ground truth: 峨眉站3572开关拒动峨眉站35kV#2电容器3572开关永久故障_开关节点A相故障
+Testing result: 峨眉站 35kV#2电容器 3572 开关 瞬时故障 _ 开关节点 B相 故障
+
+Ground truth: 桐柏厂110kV桐峨线1151开关瞬时故障_开关节点AB相相间接地
+Testing result: 峨眉站 桐峨 线 永久故障 _ 线路近区 AB相相间 短路
+
+Ground truth: 青城站雁青线瞬时故障_线路近区B相接地
+Testing result: 雁荡站 雁罗线 永久故障 _ 线路 出口 ABC三相 短路
+

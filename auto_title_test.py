@@ -2,7 +2,7 @@ import torch
 from bert_seq2seq.tokenizer import load_chinese_base_vocab
 from bert_seq2seq.utils import load_bert
 
-auto_title_model = "./state_dict/bert_auto_title_model_99.bin"
+auto_title_model = "./state_dict/bert_auto_title_model_639.bin"
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 if __name__ == "__main__":

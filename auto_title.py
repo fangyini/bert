@@ -22,7 +22,7 @@ model_name = "roberta"  # 选择模型名字
 #model_path = "./state_dict/roberta_wwm_pytorch_model.bin"  # 模型位置
 recent_model_path = "./state_dict/bert_auto_title_model.bin"   # 用于把已经训练好的模型继续训练
 model_save_path = "./state_dict/bert_auto_title_model_"
-batch_size = 256
+batch_size = 50
 lr = 1e-5
 train_epoches = 1000
 
