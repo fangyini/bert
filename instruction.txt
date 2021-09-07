@@ -1,0 +1,4 @@
+1. 运行state_dict的generate_data.py进行数据预处理，会产生jieba_dic.txt和vocab文件。vocab_to_add_manually2.txt是手动要加的词。
+   处理完的数据在corpus/auto_title下。
+2. 运行auto_title.py来训练模型，会保存模型bert_auto_title_model.bin。
+3. 运行auto_title_test.py，来测试保存的模型。
